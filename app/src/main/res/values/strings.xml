@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TestGitHub</string>
+    <string name="api_url" translatable="false">https://api.github.com</string>
+
+    <string name="avatar">Avatar</string>
+    <string name="error_server">Unknown error during work with server.</string>
+</resources>
